@@ -85,7 +85,7 @@ Formatted sheets as tables.
 _ Tables were named accordingly.
 
 _  Created relationships between tables.
-![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/product%20relationship.jpg)
+![]( )
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/sales%20team%20relationship.jpg)
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/store%20relationship.jpg)
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/relationship.jpg)
@@ -97,8 +97,11 @@ _  Created relationships between tables.
  _ Created   pivot tables that summarize;
  
 i)	Revenue trend
+
 ii)	Products by revenue
+
 iii)	Revenue contribution (%) of the product categories
+
 iv)	Sales by revenue also show their population and the median income
 
 
