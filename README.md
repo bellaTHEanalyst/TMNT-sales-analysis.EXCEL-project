@@ -105,6 +105,29 @@ iii)	Revenue contribution (%) of the product categories
 iv)	Sales by revenue also show their population and the median income
 
 
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/pivot%20tables%201.jpg)
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/pivot%20table%202.jpg)
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/pivot%20table%204.jpg)
+
+
+## Visualization 
+Pivot charts
+A dashboard was created for visualizations according to pivot tables.
+
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/tmnt%201.jpg)
+
+## Findings
+
+_ An increase in population leads to an increase in median income, which in turn leads to an increase in revenue, following the   observed trend .
+
+_ Revenue where highest in January and may and lowest in Febuary and April.
+
+_ Decoratives contributes the highest revenue percent(30%) and sports contribute lowest revenue percent (4%)
+
+
+
+
+
 
 
 
