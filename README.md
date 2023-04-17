@@ -85,10 +85,10 @@ Formatted sheets as tables.
 _ Tables were named accordingly.
 
 _  Created relationships between tables.
-![]( )
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/manage%20relationship.jpg )
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/sales%20team%20relationship.jpg)
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/store%20relationship.jpg)
-![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/relationship.jpg)
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/product%20relationship.jpg)
 
 ## DATA MODEL
 
@@ -113,6 +113,8 @@ iv)	Sales by revenue also show their population and the median income
 
 Analysis 1
 
+  Revenue trend
+  
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysation/revenue%20trend.jpg)
 
 
@@ -126,33 +128,39 @@ _ Decoratives contributes the highest revenue percent(30%) and sports contribute
 
 Analysis 3
 
-
+ ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/products%20by%20revenue.jpg)
+ 
+ _ clocks had the highest revenue and bathroom furnitures had the lowest
+ 
 Analysis 4
+
+Product name by revenue 
 
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysation/sales%20by%20team.jpg)
 
-Adam Hernadez team  had the highest revenue and  George lewis  team  had the lowest revenue.
+
+_ Adam Hernadez team  had the highest revenue and  George lewis  team  had the lowest revenue.
 
 Analysis 5
 
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysation/relationship%20trend.jpg)
 
 
-_ An increase in population leads to an increase in median income, which in turn leads to an increase in revenue, following the   observed trend .
+_  An increase in population leads to an increase in median income, which in turn leads to an increase in revenue, following the   observed trend .
 
+Analysis 6 (answer for the questions to be in the textbox)
 
+1 Wreaths and wine where the top two revenue products in January.
 
+2 Donald Raynold's team made most from decoratives in March 
 
-
-
-
-
-
-
+3  The higher the population the higher the revenue and the lower the population the lower the revenue and median income 
 
 
 ## Visualization 
+
 Pivot charts
+
 A dashboard was created for visualizations according to pivot tables.
 
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/tmnt%201.jpg)
