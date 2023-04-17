@@ -174,6 +174,20 @@ A dashboard was created for visualizations according to pivot tables.
 
 ##  Recommendation/conclusion.
 
+I recommend that:
+
+Top5 teams that contributes highest to revenue should be rewarded to encourage them and boost future sales.
+
+more stores can be opened in  Califonia, Texas and Illinois as the population in those states are high and so far they contribute most to revenue.
+
+states where sales are poor should be looked into.
+ 
+
+
+
+
+
+
 
 
 
