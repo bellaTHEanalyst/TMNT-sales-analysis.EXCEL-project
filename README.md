@@ -85,10 +85,10 @@ Formatted sheets as tables.
 _ Tables were named accordingly.
 
 _  Created relationships between tables.
-![]()
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/product%20relationship.jpg)
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/sales%20team%20relationship.jpg)
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/store%20relationship.jpg)
-
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/relationship.jpg)
 
 ## DATA MODEL
 
