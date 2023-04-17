@@ -1,6 +1,8 @@
 # TMNT-sales-analysis.EXCEL-project
 This project is for skills practice
 
+# TMNT retail sales dashboard from Jan-May 2020
+
 ## Introduction
 This project is to display my data cleaning, transformation, modeling, and visualization skill using Excel. This is an Excel project on sales analysis of an imaginary store called TMNT Stores.
 
@@ -82,19 +84,23 @@ Formatted sheets as tables.
 
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/tmnt%20sales%20table.jpg)
 
-_ Tables were named accordingly.
+Tables were named accordingly.
 
-_  Created relationships between tables.
+Created relationships between tables.
+
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/manage%20relationship.jpg )
+
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/sales%20team%20relationship.jpg)
+
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/store%20relationship.jpg)
+
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/product%20relationship.jpg)
 
 ## DATA MODEL
 
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/data%20model%20tmnt.jpg)
 
- _ Created   pivot tables that summarize;
+ Created   pivot tables that summarize;
  
 i)	Revenue trend
 
@@ -109,44 +115,42 @@ iv)	Sales by revenue also show their population and the median income
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/pivot%20table%202.jpg)
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/pivot%20table%204.jpg)
 
-## ANALYSIS / FINDINGS
+## ANALYSIS 
 
-Analysis 1
+
+Visual 1
 
   Revenue trend
   
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysation/revenue%20trend.jpg)
 
+ Revenue where highest in January and may and lowest in Febuary and April.
 
-_ Revenue where highest in January and may and lowest in Febuary and April.
-
-Analysis 2
+Visual 2
 
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysis%201.jpg)
 
-_ Decoratives contributes the highest revenue percent(30%) and sports contribute lowest revenue percent (4%)
+Decoratives contributes the highest revenue percent(30%) and sports contribute lowest revenue percent (4%)
 
-Analysis 3
+ Visual 3
 
  ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/products%20by%20revenue.jpg)
  
- _ clocks had the highest revenue and bathroom furnitures had the lowest
+ clocks had the highest revenue and bathroom furnitures had the lowest
  
-Analysis 4
+Visual 4
 
-Product name by revenue 
 
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysation/sales%20by%20team.jpg)
 
+Adam Hernadez team  had the highest revenue and  George lewis  team  had the lowest revenue.
 
-_ Adam Hernadez team  had the highest revenue and  George lewis  team  had the lowest revenue.
-
-Analysis 5
+Visual  5
 
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysation/relationship%20trend.jpg)
 
-
-_  An increase in population leads to an increase in median income, which in turn leads to an increase in revenue, following the   observed trend .
+  An increase in population leads to an increase in median income, which in turn leads to an increase in revenue, following the   observed trend .
+  
 
 Analysis 6 (answer for the questions to be in the textbox)
 
@@ -168,7 +172,9 @@ A dashboard was created for visualizations according to pivot tables.
 
 
 
-## Findings
+##  Recommendation/conclusion.
+
+
 
 
 
