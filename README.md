@@ -109,6 +109,47 @@ iv)	Sales by revenue also show their population and the median income
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/pivot%20table%202.jpg)
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/pivot%20table%204.jpg)
 
+## ANALYSIS / FINDINGS
+
+Analysis 1
+
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysation/revenue%20trend.jpg)
+
+
+_ Revenue where highest in January and may and lowest in Febuary and April.
+
+Analysis 2
+
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysis%201.jpg)
+
+_ Decoratives contributes the highest revenue percent(30%) and sports contribute lowest revenue percent (4%)
+
+Analysis 3
+
+
+Analysis 4
+
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysation/sales%20by%20team.jpg)
+
+Adam Hernadez team  had the highest revenue and  George lewis  team  had the lowest revenue.
+
+Analysis 5
+
+![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/analysation/relationship%20trend.jpg)
+
+
+_ An increase in population leads to an increase in median income, which in turn leads to an increase in revenue, following the   observed trend .
+
+
+
+
+
+
+
+
+
+
+
 
 ## Visualization 
 Pivot charts
@@ -116,13 +157,14 @@ A dashboard was created for visualizations according to pivot tables.
 
 ![](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project/blob/main/New%20folder/tmnt%201.jpg)
 
+
+
+
 ## Findings
 
-_ An increase in population leads to an increase in median income, which in turn leads to an increase in revenue, following the   observed trend .
 
-_ Revenue where highest in January and may and lowest in Febuary and April.
 
-_ Decoratives contributes the highest revenue percent(30%) and sports contribute lowest revenue percent (4%)
+
 
 
 
